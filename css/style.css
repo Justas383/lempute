@@ -1,0 +1,15 @@
+.header {
+    width: 40%;
+    background-color: red;
+    margin-top: 10%;
+    margin-left: 10%;
+    display: inline-block;
+ }
+ .text {width: 60%;
+        height: 85%;
+        font-family: arial;
+        background-color: white;}
+ .button {width: 95%;
+    height: 10%;
+    background-color: white;
+    display: inline-block;}
